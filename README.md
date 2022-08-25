@@ -1,1 +1,3 @@
-# vn-th-transliterate
+# Viet2Thai | Tnk Project
+
+โปรแกรมเขียนคำศัพท์ภาษาเวียดนามเป็นคำทับศัพท์ภาษาไทย
